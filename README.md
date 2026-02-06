@@ -22,10 +22,10 @@ proj02.py
 ### Code Example
 ![Code Screenshot 1](https://github.com/user-attachments/assets/8f74ac7b-8eb6-4c9f-9c4b-b78c5f1a181c)
 
-### Game Logic & Stats
+### Game Logic
 ![Code Screenshot 2](https://github.com/user-attachments/assets/0b68ef9e-4ab3-4a09-9eff-ae0528ec0c32)
 
-### Program Output
+###  Game Stats & Program Output
 ![Program Output](https://github.com/user-attachments/assets/91873cfb-c56b-48a1-9318-d5dd9bc16653)
 
 
