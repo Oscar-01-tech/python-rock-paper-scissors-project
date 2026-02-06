@@ -20,8 +20,7 @@ proj02.py
 ## Screenshots
 
 ### Code Example
-![Code Screenshot 1](<img width="1916" height="1043" alt="Screenshot 2026-02-06 120626" src="https://github.com/user-attachments/assets/9e57ba5d-19a5-4fcc-b00b-de9d9fc7d392" />
-)
+![Code Screenshot 1](<img width="1916" height="1043" alt="Screenshot 2026-02-06 120626" src="https://github.com/user-attachments/assets/8f74ac7b-8eb6-4c9f-9c4b-b78c5f1a181c" />)
 
 ### Game Logic & Stats
 ![Code Screenshot 2](<img width="1908" height="1027" alt="Screenshot 2026-02-06 120722" src="https://github.com/user-attachments/assets/0b68ef9e-4ab3-4a09-9eff-ae0528ec0c32" />
@@ -29,5 +28,5 @@ proj02.py
 )
 
 ### Program Output
-![Program Output](<img width="1905" height="1074" alt="Screenshot 2026-02-06 121022" src="https://github.com/user-attachments/assets/9d1c9275-26ea-4900-9177-1eff187be5fc" />
-)
+![Program Output](<img width="1905" height="1074" alt="Screenshot 2026-02-06 121022" src="https://github.com/user-attachments/assets/91873cfb-c56b-48a1-9318-d5dd9bc16653" />)
+
