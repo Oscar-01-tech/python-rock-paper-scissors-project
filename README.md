@@ -20,7 +20,8 @@ proj02.py
 ## Screenshots
 
 ### Code Example
-![Code Screenshot 1](https://github.com/user-attachments/assets/8f74ac7b-8eb6-4c9f-9c4b-b78c5f1a181c)
+![Code Screenshot 1](<img width="1917" height="1037" alt="Screenshot 2026-02-07 162655" src="https://github.com/user-attachments/assets/b61e9ea7-9c5f-46f6-8e20-2bdd1e1fd4df" />
+)
 
 ### Game Logic
 ![Code Screenshot 2](https://github.com/user-attachments/assets/0b68ef9e-4ab3-4a09-9eff-ae0528ec0c32)
